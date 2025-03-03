@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: Arial, sans-serif;
-    background-color: #000000;
+    background-color: #41644A;
     color: white;
 }
 h1{
@@ -35,10 +35,15 @@ p{
     transition: opacity 0.3s ease;
 }
 
-.green { background-color: green; }
-.red { background-color: red; }
-.yellow { background-color: yellow; }
-.blue { background-color: blue; }
+.green 
+{ background-color: green; }
+.red
+ { background-color: red; }
+.yellow 
+{ background-color: yellow; }
+.blue 
+{ background-color: blue; }
+
 
 .button.active {
     opacity: 1;
