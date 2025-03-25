@@ -36,6 +36,6 @@ Welcome to the **Simon Game**! 🎮 This is a web-based implementation of the cl
 Connect with me:
 - **GitHub**: [Bhagvati-Gaikwad](https://github.com/Bhagvati-Gaikwad)
 - **LinkedIn**: [Bhagvati Gaikwad](https://www.linkedin.com/in/bhagvati-gaikwad-ab89992a1/)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [bhagvatigaikwad1@gmail.com](mailto:your-email@example.com)
 
 🔹 *Enjoy the game and challenge your memory skills!* 🎉
